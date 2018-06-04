@@ -18,3 +18,7 @@ The repository is used to clean Todai-Asahi data, and make a panel dataset.
   - 2012UTASP20150910.csv
   - 2014UTASP20150910.csv
 - Codebooks
+
+### Notes
+
+- After cloning the repository, create a folder named "output".
